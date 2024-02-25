@@ -70,3 +70,98 @@
 >> - [Documentação do scikitlearn](https://scikit-learn.org/stable/modules/cross_validation.html)
 >> - ["The Elements of Statistical Learning" J. H. Friedman, R. Tibshirani e . Hastle](https://hastie.su.domains/Papers/ESLII.pdf)
 >> - ["An Introduction to Statistical Learning" Gareth M. James, Daniela Witten, Trevor Hastie, R J Tibshirani](https://www.statlearning.com/)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2022%20-%20Descritiva%20III%20-%20Gr%C3%A1ficos%20interativos) Módulo 22 - Descritiva III - Gráficos interativos - Plotly
+>> - ["Python para análise de dados" Wes McKinney, ed. Oreilly, 2019 - Capítulo 6](https://novatec.com.br/livros/python-para-analise-de-dados-3ed/)
+>> - ["Storytelling com Dados" Cole Nussbaumer Knaflic, Alta books, 2019](https://altabooks.com.br/produto/storytelling-com-dados/)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2023%20-%20Combina%C3%A7%C3%A3o%20de%20modelos%20I) Módulo 23 - Combinação de modelos I
+>> - [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+>> - [sklearn.ensemble.RandomForestClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2024%20-%20Combina%C3%A7%C3%A3o%20de%20modelos%20II) Módulo 24 - Combinação de modelos II
+>> - [CART](https://www.google.com/search?q=Classification+And+Regression+Trees+By+Leo+Breiman,+Jerome+H.+Friedman,+Richard+A.+Olshen,+Charles+J.+Stone&sxsrf=APq-WBsB-F7EMQLKLS-MDIV1-aQJOT_NXQ:1644165838636&ei=zvr_Yf6CJuKSxc8PlOiR-Ac&ved=0ahUKEwj-oY2Gw-v1AhViS)
+>> - [Bagging](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf)
+>> - [Random Forest](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+>> - [Boosting 1](https://link.springer.com/article/10.1007/BF00116037)
+>> - [Boosting 2](https://www.sciencedirect.com/science/article/pii/S0890540185711364)
+>> - [Boosting 3](https://www.researchgate.net/publication/2798688_Data_Filtering_and_Distribution_Modeling_Algorithms_for_Machine_Learning)
+>> - [Adaboost](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+>> - [Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)](https://projecteuclid.org/journals/annals-of-statistics/volume-28/issue-2/Additive-logistic-regression--a-statistical-view-of-boosting-With/10.1214/aos/1016218223.full)
+>> - [GBM](https://jerryfriedman.su.domains/ftp/trebst.pdf)
+>> - [Stochastic GBM](https://jerryfriedman.su.domains/ftp/stobst.pdf)
+>> - [**XGBoost**](https://arxiv.org/pdf/1603.02754.pdf)
+>> - [LightGBM](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html)
+>> - [CatBoost](https://arxiv.org/abs/1706.09516)
+>> - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+>> - [1.11. Ensemble methods — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/ensemble.html)
+>> - [sklearn.ensemble.GradientBoostingClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+>> - [XGBoost Documentation — xgboost 1.7.5 documentation](https://xgboost.readthedocs.io/en/stable/)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2025%20-%20C%C3%A1lculo) Módulo 25 - Cálculo
+>> - [Construindo gráficos 3d com matplotlib](https://www.youtube.com/watch?v=gqoLLGgbeAE)
+>> - [Construindo animações com o matplotlib](https://www.youtube.com/watch?v=7RgoHTMbp4A)
+>> - [3blue1brown - "a essência do cálculo"](https://www.youtube.com/watch?v=WUvTyaaNkzM)
+>> - [Artigo sobre derivada da Wikipedia](https://en.wikipedia.org/wiki/Derivative)
+>> - [Artigo sobre integral da Wikipedia](https://en.wikipedia.org/wiki/Integral)
+>> - [Melhores Livros de Cálculo para Universitários](https://book360.com.br/melhores-livros-de-calculo-para-universitarios/)
+>> - ["Um Curso de Cálculo - Vol. 1: Volume 1" por  Hamilton Luiz GUIDORIZZI](https://www.amazon.com.br/Curso-C%C3%A1lculo-Hamilton-Luiz-Guidorizzi/dp/8521635435)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2026%20-%20Algelin) Módulo 26 - Algelin
+>> - [Playlist sobre álgebra linear do 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+>> - [Livros sobre álgebra linear](https://math.stackexchange.com/questions/2377980/book-recommendations-for-linear-algebra)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2032%20-%20Probabilidade) Módulo 32 - Probabilidade
+>> - [Documentação do scipy.stats.t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html)
+>> - [Documentação do scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+>> - ["O andar do bêbado: Como o acaso determina nossas vidas" de Leonard Milodinow](https://books.google.com.br/books/about/O_andar_do_b%C3%AAbado.html?id=WydVzQEACAAJ&redir_esc=y)
+>> - ["Estatística Básica" de P. A. Morettin e W. O. Bussab.](https://www.google.com.br/books/edition/ESTAT%C3%8DSTICA_B%C3%81SICA/vDhnDwAAQBAJ?hl=pt-BR&gbpv=0)
+
+<br>
+
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2033%20-%20Infer%C3%AAncia) Módulo 33 - Inferência
+>> - [Teste de Hipóteses](https://www.inf.ufsc.br/~andre.zibetti/probabilidade/teste-de-hipoteses.html)
+>> - [Teste de Hipótese: uma ferramenta poderosa para tomadas de decisão baseadas em evidências | by Edson Junior | Data Hackers | Medium](https://medium.com/data-hackers/teste-de-hip%C3%B3tese-uma-ferramenta-poderosa-para-tomadas-de-decis%C3%A3o-baseadas-em-evid%C3%AAncias-6e260d3067ba)
+
+<br>
+
+---
+# Pandas
+
+O Pandas é uma biblioteca essencial para análise de dados em Python, oferecendo estruturas de dados flexíveis (Series e DataFrame) para manipulação eficiente de dados tabulares. Ele facilita a leitura e escrita de dados, a seleção e transformação de dados, a agregação e agrupamento de dados, além de oferecer recursos para manipulação de datas e integração com visualização de dados. É amplamente utilizado em ciência de dados, análise financeira e outras áreas onde a manipulação de dados é necessária.
+
+---
+
+# NumPy
+
+O NumPy é uma biblioteca fundamental para computação numérica em Python, oferecendo suporte a arrays multidimensionais e funções matemáticas para operações eficientes. Ele é amplamente utilizado para representar dados e realizar operações matemáticas em arrays de forma rápida e eficiente, sendo a base para muitas outras bibliotecas de análise de dados e computação científica em Python.
+
+---
+
+# Matplotlib
+
+O Matplotlib é uma biblioteca de visualização de dados em Python, usada para criar uma variedade de gráficos de alta qualidade. Ele permite criar gráficos básicos e avançados, personalizar a aparência dos gráficos e exportá-los em diferentes formatos. É amplamente utilizado em análise de dados e visualização de dados científicos e comerciais.
+
+---
+
+# Scikit-Learn
+
+Scikit-learn é uma biblioteca em Python para aprendizado de máquina, usada para criar modelos preditivos a partir de dados. Ele oferece ferramentas para pré-processamento de dados, validação de modelos e seleção de modelos, sendo amplamente utilizado em análise de dados e machine learning.
+
+---
+
+# Streamlit
+
+Streamlit é uma biblioteca em Python para criar aplicativos web interativos para análise de dados e machine learning. Ele simplifica o desenvolvimento, permitindo criar interfaces interativas com poucas linhas de código, integrar visualizações de dados e modelos de machine learning, e compartilhar os aplicativos facilmente.
