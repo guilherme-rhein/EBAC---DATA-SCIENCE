@@ -21,9 +21,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
 
 </div>
-
+<br>
 <div align="center">
-  <h1>Profissão ciências de dados</h1>
+  <h1>Profissão - Cientista de Dados</h1>
 </div>
 
 - [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%201%20-%20Metodologia) Módulo 1 - Metodologia 
@@ -56,11 +56,17 @@
 - [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2028%20-%20Streamlit%20III%2C%20IV) Módulo 28 - Streamlit III, IV
 - [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2029%20-%20K-means) Módulo 29 - K-means
 - [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2030%20-%20Hier%C3%A1rquicos%20%20aglomerativos) Módulo 30 - Hierárquicos / aglomerativos
-- [✅]() Módulo 31 - Streamlit V
-- [✅]() Módulo 32 - Probabilidade
-- [✅]() Módulo 33 - Inferência
-- [✅]() Módulo 34 - Regressão III
-- [✅]() Módulo 35 - Regressão IV
-- [✅]() Módulo 36 - Descritiva IV - Visualização de dados categorizados
-- [✅]() Módulo 37 - Regressão Logística II
-- [✅]() Módulo 38 - Streamlit VI e Pycaret
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2031%20-%20Streamlit%20V) Módulo 31 - Streamlit V
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2032%20-%20Probabilidade) Módulo 32 - Probabilidade
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2033%20-%20Infer%C3%AAncia) Módulo 33 - Inferência
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2034%20-%20Regress%C3%A3o%20III) Módulo 34 - Regressão III
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2035%20-%20Regress%C3%A3o%20IV) Módulo 35 - Regressão IV
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2036%20-%20Descritiva%20IV) Módulo 36 - Descritiva IV - Visualização de dados categorizados
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2037%20-%20Regress%C3%A3o%20Log%C3%ADstica%20II) Módulo 37 - Regressão Logística II
+- [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2038%20-%20Streamlit%20VI%20e%20Pycaret) Módulo 38 - Streamlit VI e Pycaret
+
+# Dados Complementares:
+> [✅](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE/tree/main/M%C3%B3dulo%2017%20-%20%C3%81rvores%20II) Módulo 17 - Árvores II (Parte II: árvore de classificação)
+>> - [Documentação do scikitlearn](https://scikit-learn.org/stable/modules/cross_validation.html)
+>> - ["The Elements of Statistical Learning" J. H. Friedman, R. Tibshirani e . Hastle](https://hastie.su.domains/Papers/ESLII.pdf)
+>> - ["An Introduction to Statistical Learning" Gareth M. James, Daniela Witten, Trevor Hastie, R J Tibshirani](https://www.statlearning.com/)
