@@ -1,8 +1,6 @@
 
-# Imports
 import pandas            as pd
 import streamlit         as st
-import xlsxwriter
 
 from io                     import BytesIO
 from pycaret.classification import load_model, predict_model
@@ -12,13 +10,13 @@ from pycaret.classification import load_model, predict_model
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
-# Função para converter o df para excel
+# Função de DataFrame para Excel
 @st.cache_data
 def to_excel(df):
     output = BytesIO()
     writer = pd.ExcelWriter(output, engine='xlsxwriter')
     df.to_excel(writer, index=False, sheet_name='Sheet1')
-    writer.save()
+    writer.close() # save() has been deprecated
     processed_data = output.getvalue()
     return processed_data
 
@@ -44,7 +42,7 @@ def main():
         df_credit = pd.read_feather(data_file_1)
         df_credit = df_credit.sample(50000)
 
-        model_saved = load_model(r'C:\Users\Guilherme Rhein\Downloads\Streamlit VI e Pycaret\Exercícios\2 - Resolução Projeto\2 - Resolução Projeto\final_lightgbm.pkl')
+        model_saved = load_model(r'C:\Users\Guilherme Rhein\Desktop\modelo\final_md')
         predict = predict_model(model_saved, data=df_credit)
 
         df_xlsx = to_excel(predict)
@@ -56,7 +54,6 @@ def main():
 if __name__ == '__main__':
 	main()
     
-
 
 
 
